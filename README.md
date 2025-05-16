@@ -1,47 +1,44 @@
-Trilha de Inteligência Artificial – PretaLab
-Capacitação em IA para mulheres negras e indígenas
+# Trilha de Inteligência Artificial – PretaLab  
+**Capacitação em IA para mulheres negras e indígenas**
 
-A PretaLab é uma iniciativa que promove a inclusão de mulheres negras e indígenas no ecossistema de tecnologia e inovação. Esta trilha formativa tem como foco a capacitação em Inteligência Artificial, com prática em Python, discussões sobre ética em IA e construção de soluções aplicadas.
+A **PretaLab** é uma iniciativa que promove a inclusão de mulheres negras e indígenas no ecossistema de tecnologia e inovação. Esta trilha formativa tem como foco a capacitação em **Inteligência Artificial**, com prática em Python, discussões sobre ética em IA e construção de soluções aplicadas.
 
-🎯 Objetivos da Trilha
-Introduzir conceitos fundamentais de Machine Learning e Data Science
+---
 
-Desenvolver habilidades técnicas com Python e bibliotecas de análise de dados
+## 🎯 Objetivos da Trilha
 
-Discutir ética, diversidade e viés algorítmico na IA
+- **Introduzir** conceitos fundamentais de *Machine Learning* e *Data Science*  
+- **Desenvolver habilidades técnicas** com Python e bibliotecas de análise de dados  
+- **Discutir ética, diversidade e viés algorítmico** na IA  
+- **Preparar as participantes** para oportunidades no mercado de trabalho em tecnologia  
 
-Preparar as participantes para oportunidades no mercado de trabalho em tecnologia
+---
 
-📌 Conteúdo do Ciclo Formativo 13
-📊 Módulos Principais
-✔ Introdução à IA e Python
-Fundamentos de Inteligência Artificial
+## 📌 Conteúdo do Ciclo Formativo 13
 
-Lógica de programação com Python
+### 📊 Módulos Principais
 
-Manipulação de dados com Pandas e NumPy
+#### ✔ Introdução à IA e Python
+- Fundamentos de Inteligência Artificial  
+- Lógica de programação com **Python**  
+- Manipulação de dados com **Pandas** e **NumPy**
 
-✔ Machine Learning Básico
-Algoritmos supervisionados e não supervisionados
+#### ✔ Machine Learning Básico
+- Algoritmos **supervisionados** e **não supervisionados**  
+- Treinamento, validação e avaliação com **Scikit-learn**
 
-Treinamento, validação e avaliação com Scikit-learn
+#### ✔ Visualização de Dados
+- Criação de gráficos com **Matplotlib** e **Seaborn**  
+- Geração de insights a partir de dados reais
 
-✔ Visualização de Dados
-Criação de gráficos com Matplotlib e Seaborn
+#### ✔ Ética em IA
+- Impactos sociais da inteligência artificial  
+- Identificação e mitigação de **vieses algorítmicos**  
+- Princípios de **justiça**, **transparência** e **responsabilidade** em IA
 
-Geração de insights a partir de dados reais
+#### ✔ Projeto Prático
+- Desenvolvimento de uma solução de IA aplicada a um problema real  
+- Trabalho em equipe com **mentoria técnica**  
+- Apresentação final para banca avaliadora
 
-✔ Ética em IA
-Impactos sociais da inteligência artificial
-
-Identificação e mitigação de vieses algorítmicos
-
-Princípios de justiça, transparência e responsabilidade em IA
-
-✔ Projeto Prático
-Desenvolvimento de uma solução de IA aplicada a um problema real
-
-Trabalho em equipe com mentoria técnica
-
-Apresentação final para banca avaliadora
 
