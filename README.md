@@ -1,7 +1,7 @@
 Trilha de Inteligência Artificial – PretaLab
 Capacitação em IA para mulheres negras e indígenas
 
-A PretaLab é uma iniciativa que promove a inclusão de mulheres negras e indígenas no ecossistema de tecnologia e inovação. Esta trilha formativa tem como foco a capacitação em Inteligência Artificial, com ênfase na prática com Python, ética em IA e construção de soluções aplicadas.
+A PretaLab é uma iniciativa que promove a inclusão de mulheres negras e indígenas no ecossistema de tecnologia e inovação. Esta trilha formativa tem como foco a capacitação em Inteligência Artificial, com prática em Python, discussões sobre ética em IA e construção de soluções aplicadas.
 
 🎯 Objetivos da Trilha
 Introduzir conceitos fundamentais de Machine Learning e Data Science
@@ -27,12 +27,12 @@ Algoritmos supervisionados e não supervisionados
 Treinamento, validação e avaliação com Scikit-learn
 
 ✔ Visualização de Dados
-Criação de gráficos e dashboards com Matplotlib e Seaborn
+Criação de gráficos com Matplotlib e Seaborn
 
 Geração de insights a partir de dados reais
 
 ✔ Ética em IA
-Reflexões sobre impactos sociais da inteligência artificial
+Impactos sociais da inteligência artificial
 
 Identificação e mitigação de vieses algorítmicos
 
